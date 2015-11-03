@@ -9,7 +9,7 @@
   "author": "Kenneth Bovbjerg Thøgersen",
   "license": "ISC",
   "repository":{
-    "type": "git",
-    "url":"https://github.com/KnethBT/mandatory1.git"
+    "url":"https://github.com/KnethBT/mandatory1.git",
+    "type": "git"
   }
 }
