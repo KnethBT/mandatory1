@@ -7,13 +7,18 @@
     <link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="app/css/style.css"/>
 </head>
-<nav class="navbar navbar-default navbar-fixed-top">
+
+<nav class="navbar navbar-default navbar-fixed-top" ng-controller="NavigationController">
     <div class="container">
-        <div>
+        <div ng-show="!loggedIn"> <!-- Hvis brugeren ikke er logget: -->
             <input type="text" ng-model="login.email">
             <input type="password" ng-model="login.password">
             <button ng-click="logUserIn()">Login</button>
             <a ui-sref="signUp">Create User</a>
+        </div>
+        <div ng-show="loggedIn"> <!-- Hvis brugeren er logget ind: -->
+            <a ui-sref="editProfile"> Edit Profile </a>
+            <a ng-click="logOut();">Logout;</a>
         </div>
     </div>
 </nav>
@@ -28,7 +33,16 @@
     <script src="node_modules/angular/angular.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.js"></script>
     <script src="app/app.js"></script>
+
+    <!-- Labraries -->
+    <script src="node_modules/ng-file-upload/dist/ng-file-upload.js"></script> <!-- bruger jeg til at upload billeder-->
+    <script src="node_modules/ng-file-upload/dist/ng-file-upload-all.js"></script>
+    <script src="node_modules/ng-file-upload/dist/ng-file-upload-shim.js"></script>
+
+    <!-- Controller scripts: -->
     <script src="app/signup/signup-controller.js"></script>
     <script src="app/navigation/navigation-controller.js"></script>
+    <script src="app/profile/edit-profile-controller.js"></script>
+
 </body>
 </html>
