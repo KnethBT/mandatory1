@@ -36,13 +36,13 @@ module.exports.updatePhoto = function(req, res)
                     if (err)
                     {
                         console.log("failed to save img")
-                        res.json({status: 500})
+                        res.json({status: 500}) //wiki siger at 500 = oh fuck!
                     }
                     else
                     {
                         console.log("saving img successful");
 
-                        res.json({status: 200})
+                        res.json({status: 200}) //wiki siger at 200 = succes
                     }
                 })
             })
@@ -51,7 +51,7 @@ module.exports.updatePhoto = function(req, res)
     });
 };
 
-/*
+
 module.exports.updateUsername = function (req, res)
 {
     var username = req.body.username;
@@ -67,12 +67,12 @@ module.exports.updateUsername = function (req, res)
             if (err)
             {
                 console.log("fail");
-                res.json({status: 500});
+                res.json({status: 500}); //ifølge wiki er 500 = oh fuck
             }
             else
             {
                 console.log("success");
-                res.json({status: 200});
+                res.json({status: 200});//ifølge wiki er 200 = success!
             }
         })
     });
@@ -103,4 +103,3 @@ module.exports.updateBio = function (req, res)
         })
     });
 };
-    */

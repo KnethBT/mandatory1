@@ -17,27 +17,63 @@
                 });
 
 
-                $scope.upload = function(file)
+            $scope.upload = function(file)
+            {
+                if (file) //Hvis bruger uploader en file
                 {
-                    if (file) //Hvis bruger uploader en file
+                    upload.upload({
+                        url:'api/profile/editPhoto',
+                        method: 'POST',
+                        data: {userId: $scope.user._id},
+                        file: file
+                    }).progress(function(evt)
                     {
-                        upload.upload({
-                            url:'api/profile/editPhoto',
-                            method: 'POST',
-                            data: {userId: $scope.user._id},
-                            file: file
-                        }).progress(function(evt)
-                        {
-                            console.log("firing");
+                        console.log("firing");
 
-                        }).success(function(data)
-                        {
+                    }).success(function(data)
+                    {
 
-                        }).error(function(error)
-                        {
-                            console.log(error);
-                        })
-                    }
+                    }).error(function(error)
+                    {
+                        console.log(error);
+                    })
                 }
+            }
+
+           $scope.updateUsername = function ()
+           {
+               var request =
+               {
+                   userId: $scope.user._id,
+                   username: $scope.user.username
+               }
+
+               $http.post('api/profile/updateUsername', request).success(function()
+               {
+                   console.log("success");
+               }).error(function(error)
+               {
+                   console.log("error");
+               })
+           };
+
+           $scope.updateBio = function ()
+           {
+               var request =
+               {
+                   userId: $scope.user._id,
+                   bio: $scope.user.bio
+               }
+
+               $http.post('api/profile/updateBio', request).success(function()
+               {
+                   console.log("success")
+               }).error(function(error)
+               {
+                   console.log(error);
+               });
+           }
        }]);
+
+
 }());
