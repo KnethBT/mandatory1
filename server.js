@@ -13,7 +13,9 @@ var profileController = require('./server/controllers/profile-controller');
 
 mongoose.connect('mongodb://admin:1234@ds047484.mongolab.com:47484/brokerdb');
 
+
 app.use(bodyParser.json());
+app.use(multipartMiddleware);
 app.use('/app', express.static(__dirname + "/app" ));
 app.use('/node_modules', express.static(__dirname + "/node_modules"));
 

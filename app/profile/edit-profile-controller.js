@@ -2,10 +2,11 @@
  * Created by KennethBovbjerg on 04-11-2015.
  */
 (function(){
-   angular.module('BrokerCase').controller('EditProfileController',['Upload', '$scope','$state','$http',
+   angular.module('BrokerCase')
+       .controller('EditProfileController',['Upload', '$scope','$state','$http',
        function (upload, $scope, $state, $http)
        {
-            $scope.user = JSON.parse(localstorage['User-Data']) || undefined;
+            $scope.user = JSON.parse(localStorage['User-Data']) || undefined;
 
             $scope.$watch(function ()
             {
@@ -21,7 +22,7 @@
                     if (file) //Hvis bruger uploader en file
                     {
                         upload.upload({
-                            url:'api/profile/edit',
+                            url:'api/profile/editPhoto',
                             method: 'POST',
                             data: {userId: $scope.user._id},
                             file: file

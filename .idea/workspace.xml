@@ -2,747 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04e28050-a9a2-4f11-b4f2-1199df6880fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_attach.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_find.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_paintbrush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_paste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_save.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_acrobat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_actionscript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_cd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_code_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_coldfusion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_compressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_cplusplus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_csharp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_cup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_dvd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_find.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_flash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_freehand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_get.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_magnify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_medal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_paint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_paintbrush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_paste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_php.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_powerpoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_put.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_ruby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_stack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_swoosh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_text_width.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_tux.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_vector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_visualstudio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_width.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_word.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_world.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_white_zip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_word.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/icons/page_world.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/beta-sticker-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/binaryfile.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/menu_separator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/pf1y5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/encoding/pf1y5.png.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/multi_video.upload" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/img/tea.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/img/tea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/FileAPI.flash.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/com/df/angularfileupload/CORSFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/com/df/angularfileupload/FileUpload$SizeEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/com/df/angularfileupload/FileUpload.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/com/df/angularfileupload/S3Signature.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/img/tea.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/img/tea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/FileAPI.flash.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/FileAPI.flash.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/FileAPI.flash.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mandatory1_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/profile/edit-profile-controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/profile/edit-profile-view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/test/balanced.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/batch/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/tests/crc.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/example/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/test/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/node_modules/multiparty/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/node_modules/multiparty/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/node_modules/multiparty/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/node_modules/multiparty/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/node_modules/multiparty/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/node_modules/multiparty/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect-multiparty/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/cache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/connect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/basicAuth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/bodyParser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/compress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/cookieParser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/cookieSession.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/csrf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/directory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/errorHandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/favicon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/limit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/methodOverride.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/multipart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/responseTime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/session.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/session/cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/session/memory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/session/session.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/session/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/static.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/staticCache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/timeout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/urlencoded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/vhost.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/patch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/proto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/directory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/public/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/bytes/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie-signature/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie-signature/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie-signature/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie-signature/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie-signature/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie-signature/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/cookie/test/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/debug/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/debug/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/debug/lib/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/debug/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/fresh/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/fresh/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/fresh/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/fresh/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/fresh/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/fresh/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/methods/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/methods/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/methods/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/methods/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/mime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/types/mime.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/mime/types/node.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/examples/accept.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/examples/charset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/examples/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/examples/language.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/lib/charset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/lib/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/lib/language.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/lib/mediaType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/lib/negotiator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/test/charset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/test/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/test/language.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/negotiator/test/mediaType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/qs/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/qs/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/qs/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/qs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/qs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/range-parser/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/range-parser/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/range-parser/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/range-parser/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/range-parser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/range-parser/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/lib/send.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/send/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fd-slicer/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-file-sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/ncp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/empty/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/jsonfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json-sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/output/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/streams/create-output-stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/streams/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/assign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/walk/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/glob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/graceful-fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/legacy-streams.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/inflight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/keypress/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/keypress/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/keypress/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/keypress/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/klaw/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/klaw/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/klaw/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/klaw/assign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/klaw/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/klaw/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/minimatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/examples/pow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/chmod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/clobber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/mkdirp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/perm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/perm_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/race.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/rel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/return.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/return_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/umask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/umask_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/examples/azureblobstorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/examples/s3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/examples/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/duplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/float.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/lib/_stream_duplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/lib/_stream_passthrough.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/lib/_stream_readable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/lib/_stream_transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/lib/_stream_writable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/passthrough.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/readable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/writable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/bench-multipart-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/funkyfilename.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/file/plain.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/encoding/beta-sticker-1.png.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/encoding/binaryfile.tar.gz.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/encoding/blank.gif.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/encoding/menu_seperator.png.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/encoding/plain.txt.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/no-filename/filename-name.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/no-filename/generic.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/preamble/crlf.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/preamble/preamble.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/info.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-chrome-13.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-firefox-3.6.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-safari-5.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/xp-chrome-12.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/xp-ie-7.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/xp-ie-8.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/special-chars-in-filename/xp-safari-5.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/workarounds/missing-hyphens1.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/http/workarounds/missing-hyphens2.http" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/js/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/js/no-filename.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/js/preamble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/js/special-chars-in-filename.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/js/workarounds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/fixture/multipart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/record.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-connection-aborted.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-content-transfer-encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-invalid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-issue-15.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-issue-19.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-issue-21.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-issue-4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-issue-46.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/standalone/test-issue-5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/artifacts/ng_file_upload_demo_server_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/artifacts/ng_file_upload_demo_server_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_1_9_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/libraries/Maven__com_google_appengine_appengine_endpoints_1_9_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/C#/UploadController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/C#/UploadHandler.ashx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/C#/UploadHandler.ashx.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/java/com/df/angularfileupload/CORSFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/java/com/df/angularfileupload/FileUpload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/java/com/df/angularfileupload/S3Signature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/resources/META-INF/jdoconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/resources/META-INF/persistence.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/WEB-INF/appengine-web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/WEB-INF/logging.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/donate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/FileAPI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/FileAPI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-file-upload-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-file-upload-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-file-upload-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-file-upload-shim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-file-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-file-upload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-img-crop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/ng-img-crop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/src/main/webapp/js/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/appengine-web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/META-INF/jdoconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/META-INF/persistence.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/logging.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/donate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/FileAPI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/FileAPI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-file-upload-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-file-upload-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-file-upload-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-file-upload-shim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-file-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-file-upload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-img-crop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/ng-img-crop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/demo/target/ng-file-upload-demo-server-0.0.1/js/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/FileAPI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/FileAPI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/ng-file-upload-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/ng-file-upload-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/ng-file-upload-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/ng-file-upload-shim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/ng-file-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/dist/ng-file-upload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/nuget/Package.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/nuget/build.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/nuget/nuget.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/release.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/FileAPI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/data-url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/drop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/exif.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/shim-elem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/shim-filereader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/shim-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/src/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/test/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/test/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ng-file-upload/test/spec/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/FirstWebServer/Sample.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/FirstWebServer/a.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/FirstWebServer/sample.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/FirstWebServer/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/UnityServer/UnityServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/UnityServer/html/a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/file.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/getmodule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/getpackage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/helloworld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/lib/interface.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/loadmodule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/.bin/express" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/.bin/express.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie-signature/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie-signature/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie-signature/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie-signature/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie-signature/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie-signature/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/cookie/test/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/debug/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/debug/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/debug/lib/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/debug/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/benchmarks/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/benchmarks/middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/benchmarks/run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/bin/express" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/express.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/router/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/lib/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/express/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/fresh/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/fresh/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/fresh/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/fresh/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/fresh/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/fresh/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/merge-descriptors/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/merge-descriptors/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/merge-descriptors/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/merge-descriptors/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/merge-descriptors/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/methods/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/methods/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/methods/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/methods/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/mime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/types/mime.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/mime/types/node.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/range-parser/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/range-parser/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/range-parser/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/range-parser/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/range-parser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/range-parser/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/lib/send.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/node_modules/send/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/readfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/readfilecallback.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/readfilesync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node.js/somepackage/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/test/once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path/path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pause/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pause/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pause/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pause/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pause/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pause/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pend/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pend/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pend/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pend/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pend/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/rimraf/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/rimraf/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/rimraf/bin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/rimraf/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/rimraf/rimraf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/duplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/float.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/lib/_stream_duplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/lib/_stream_passthrough.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/lib/_stream_readable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/lib/_stream_transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/lib/_stream_writable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/passthrough.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/readable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/node_modules/readable-stream/writable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-counter/test/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uid2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uid2/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uid2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/.zuul.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/support/isBuffer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/support/isBufferBrowser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/browser/inspect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/browser/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/node/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/node/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/node/inspect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/node/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/test/node/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/util/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/wrappy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/controllers/profile-controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mandatory1.iml" afterPath="$PROJECT_DIR$/.idea/mandatory1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/navigation/navigation-controller.js" afterPath="$PROJECT_DIR$/app/navigation/navigation-controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/profile/edit-profile-controller.js" afterPath="$PROJECT_DIR$/app/profile/edit-profile-controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/profile/edit-profile-view.html" afterPath="$PROJECT_DIR$/app/profile/edit-profile-view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/authentication-controller.js" afterPath="$PROJECT_DIR$/server/controllers/authentication-controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/datasets/users.js" afterPath="$PROJECT_DIR$/server/datasets/users.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/profile-controller.js" afterPath="$PROJECT_DIR$/server/controllers/profile-controller.js" />
     </list>
     <ignored path="mandatory1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -778,8 +41,8 @@
       <file leaf-file-name="edit-profile-view.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/profile/edit-profile-view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -789,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/app/profile/edit-profile-controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -801,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -809,15 +72,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile-controller.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="profile-controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/controllers/profile-controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22201492">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="563a2fc35ce1cde42132c47e20151105T013048JRSteam.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uploads/563a2fc35ce1cde42132c47e20151105T013048JRSteam.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -826,6 +96,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#52#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/datasets/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -843,33 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup-controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/signup/signup-controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/signup/signup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -904,9 +164,9 @@
         <option value="$PROJECT_DIR$/app/navigation/navigation-controller.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/app/profile/edit-profile-view.html" />
         <option value="$PROJECT_DIR$/app/profile/edit-profile-controller.js" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/server/controllers/profile-controller.js" />
       </list>
     </option>
@@ -979,6 +239,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mandatory1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mandatory1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1002,74 +276,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="navigation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mandatory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1174,13 +380,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4038055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4038055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1210,16 +416,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/controllers/authentication-controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1564,16 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/datasets/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/signup/signup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.423077">
@@ -1592,16 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/navigation/navigation-controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.461538">
@@ -1610,26 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/profile/edit-profile-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/profile/edit-profile-controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -1646,10 +806,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/profile/edit-profile-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/navigation/navigation-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/profile/edit-profile-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/datasets/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -1658,12 +854,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/controllers/profile-controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22201492">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/563a2fc35ce1cde42132c47e20151105T013048JRSteam.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
