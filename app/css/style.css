@@ -29,7 +29,12 @@ img
 
 .content-new
 {
+    background-color: rgb(225,225,225);
     width:100%;
+    border-color: rgb(225,225,225);
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 25px;
 }
 
 .content-newDes

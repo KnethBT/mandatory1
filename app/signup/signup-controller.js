@@ -10,7 +10,9 @@
             console.log($scope.newUser);
             $http.post('api/user/signup', $scope.newUser).success(function(response){
 
-            }).error(function(error){
+            }).error(function(error)
+            {
+                alert(error); //løb tør for tid, normalt vil jeg ikke lave en popup med fejl, men bruge en label eller andet, som er mindre for styrende for brugeren!
                 console.log(error);
             })
         }

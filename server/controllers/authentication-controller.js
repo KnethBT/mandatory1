@@ -13,10 +13,11 @@ module.exports.signup = function (req, res)
 
 module.exports.login = function (req,res)
 {
-    User.find(req.body, function (err, results)
+    User.find(req.body, function (error, results)
     {
-        if (err)
+        if (error)
         {
+            alert(error); //løb tør for tid, normalt vil jeg ikke lave en popup med fejl, men bruge en label eller andet, som er mindre for styrende for brugeren!
             console.log("Error Out");
         }
 
