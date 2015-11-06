@@ -32,34 +32,39 @@
     </div>
 
     <div class="row col-sm-10 col-sm-offset-1">
+        <div class="form-group pull-right">
+            <input id="filter" type="text" class="form-control" placeholder="Search">
+        </div>
         <h3><b>Contents:</b></h3>
         <table class="content-section table table-striped">
-            <tr >
-                <a ng-click="setNewContents()" ng-if="incomingContents.length > 0"> There are {{difference}} new contents! </a>
-            </tr>
-            <tr ng-repeat="content in contents" class="content-wrapper">
+            <tbody class="searchable">
+                <tr >
+                    <a ng-click="setNewContents()" ng-if="incomingContents.length > 0"> There are {{difference}} new contents! </a>
+                </tr>
+                <tr ng-repeat="content in contents" class="content-wrapper">
 
-                <td>
-                    <h2 class="col-sm-12"><b>{{content.contentTitle}}</b></h2> <br>
+                    <td>
+                        <h2 class="col-sm-12"><b>{{content.contentTitle}}</b></h2> <br>
 
-                    <image ng-src="{{content.contentImg}}" class="img-responsive col-sm-6"></image>
+                        <image ng-src="{{content.contentImg}}" class="img-responsive col-sm-6"></image>
 
 
-                    <div class="content-des">
-                        <strong>{{content.date | date: 'dd/MM/yyyy hh:mm'}}</strong>
-                        <br>
-                        <p>{{content.contentDescription}}</p>
-                        <br>
-                       <h6><b>{{content.username}}</b></h6>
-                    </div>
+                        <div class="content-des">
+                            <strong>{{content.date | date: 'dd/MM/yyyy hh:mm'}}</strong>
+                            <br>
+                            <p>{{content.contentDescription}}</p>
+                            <br>
+                           <h6><b>Username: {{content.username}}</b></h6>
+                        </div>
 
-                    <div class="col-sm-6 col-sm-offset-6">
-                        <strong>Score: {{content.contentScore}}</strong>
-                        <button ng-click="voteContent(content, true)" class="btn, btn-default col-sm-2">Up vote</button>
-                        <button ng-click="voteContent(content, false)" class="btn, btn-default col-sm-2">Down vote</button>
-                    </div>
-                </td>
-            </tr>
+                        <div class="col-sm-6 col-sm-offset-6">
+                            <strong>Score: {{content.contentScore}}</strong>
+                            <button ng-click="voteContent(content, true)" class="btn, btn-default col-sm-2">Up vote</button>
+                            <button ng-click="voteContent(content, false)" class="btn, btn-default col-sm-2">Down vote</button>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
         </table>
     </div>
 </body>
