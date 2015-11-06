@@ -1,7 +1,8 @@
 /**
  * Created by KennethBovbjerg on 04-11-2015.
  */
-(function(){
+(function()
+{
    angular.module('BrokerCase')
        .controller('EditProfileController',['Upload', '$scope','$state','$http',
        function (upload, $scope, $state, $http)
@@ -11,17 +12,19 @@
             $scope.$watch(function ()
             {
              return $scope.file
-            }, function ()
-                {
-                    $scope.upload($scope.file);
-                });
+            },
+            function ()
+            {
+                $scope.upload($scope.file);
+            });
 
 
             $scope.upload = function(file)
             {
-                if (file) //Hvis bruger uploader en file
+                if (file) //Hvis brugeren har valgt en fil
                 {
-                    upload.upload({
+                    upload.upload(
+                    {
                         url:'api/profile/editPhoto',
                         method: 'POST',
                         data: {userId: $scope.user._id},

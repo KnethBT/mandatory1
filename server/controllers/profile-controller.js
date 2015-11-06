@@ -14,8 +14,8 @@ module.exports.updatePhoto = function(req, res)
     var uploadDate = new Date().toISOString().slice(0,19).replace(/-|:/g,""); //Bruger date til at skabe en unik file name!
 
     var tempPath = file.path;
-    var targetPath = path.join(__dirname, "../../uploads/" + userId +  uploadDate + file.name);
-    var savePath = "/uploads/" + userId + uploadDate + file.name;
+    var targetPath = path.join(__dirname, "../../uploads/profile/" + userId +  uploadDate + file.name);
+    var savePath = "/uploads/profile/" + userId + uploadDate + file.name;
 
     fs.rename(tempPath, targetPath, function(err)
     {
@@ -28,6 +28,7 @@ module.exports.updatePhoto = function(req, res)
             User.findById(userId, function(err, userData)
             {
                 var user = userData;
+                console.log(user);
                 user.image = savePath;
                 user.save(function(err)
                 {
@@ -42,7 +43,7 @@ module.exports.updatePhoto = function(req, res)
                     {
                         console.log("saving img successful");
 
-                        res.json({status: 200}) //wiki siger at 200 = succes
+                        res.json({status: 200}) //wiki siger at 200 = success
                     }
                 })
             })

@@ -23,8 +23,13 @@ module.exports.login = function (req,res)
         if (results && results.length === 1)
         {
             var userData = results[0];
-            res.json({email: req.body.email,
-                      _id: userData._id});
+            res.json(
+            {
+                email: req.body.email,
+                _id: userData._id,
+                username: userData.username,
+                image: userData.image
+            });
         }
     })
 }
