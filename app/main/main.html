@@ -6,27 +6,55 @@
 </head>
 <body>
     <div class="col-sm-10 col-sm-offset-1">
-        <div class="row">
+        <div class="row content-new">
+            <h3><b>Add new Content:</b></h3>
             <!-- Content title: -->
-            <input type="text" ng-model="newContentTitle" placeholder="Title" class="form-group">
+            <input type="text" ng-model="newContentTitle" placeholder="Title" class="form-group col-sm-4">
 
             <!-- Upload img -->
-            <div class="button" ngf-select ng-model="file" name="file" ngf-pattern="'image/*'"
-                 accept="image/*" ngf-max-size="20MB" ngf-min-height="100"
-                 ngf-resize="{width: 100, height: 100}">
-                Select image
+            <div class="col-sm-4 content-newImg">
+                <p>{{file.name}}</p>
+                <div class="button btn btn-default" ngf-select ng-model="file" name="file" ngf-pattern="'image/*'"
+                     accept="image/*" ngf-max-size="20MB" ngf-min-height="100"
+                     ngf-resize="{width: 500, height: 500}">
+                    Select image
+                </div>
             </div>
 
             <!-- Content description: -->
             <textarea ng-model="newContentDescription"
-                      class="form-group"
+                      class="form-group content-newDes col-sm-12"
                       placeholder="Description">
             </textarea>
 
-
-
-            <button ng-click="sendContent(file)" class="btn, btn-default">Upload Content!</button>
+            <button ng-click="sendContent(file)" class="btn, btn-default col-sm-2">Upload Content!</button>
         </div>
+    </div>
+
+    <div class="row col-sm-10 col-sm-offset-1">
+        <h3><b>Contents:</b></h3>
+        <table class="content-section table table-striped">
+            <tr >
+                <a ng-click="setNewContents()" ng-if="incomingContents.length > 0"> There are {{difference}} new contents! </a>
+            </tr>
+            <tr ng-repeat="content in contents" class="content-wrapper">
+
+                <td class="col-sm-5 col-sm-offset-1">
+                    <h2 class="col-sm-12"><b>{{content.contentTitle}}</b></h2> <br>
+
+                    <image ng-src="{{content.contentImg}}" class="img-responsive col-sm-6"></image>
+
+
+                    <div class="content-des">
+                        <strong>{{content.date | date: 'dd/MM/yyyy hh:mm'}}</strong>
+                        <br>
+                        <p>{{content.contentDescription}}</p>
+                        <br>
+                       <h6><b>{{content.username}}</b></h6>
+                    </div>
+                </td>
+            </tr>
+        </table>
     </div>
 </body>
 </html>

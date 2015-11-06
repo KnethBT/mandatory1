@@ -11,13 +11,11 @@
                         if (localStorage['User-Data'])
                         {
                             $scope.loggedIn = true; //Hvis de har, så set dem som værende logget ind!
-
                         }
                         else
                         {
                             $scope.loggedIn = false; //Ellers, så er de logget ud!
                         }
-                        console.log("test")
 
                         $scope.logUserIn = function()
                         {

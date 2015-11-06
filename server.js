@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 app.use(multipartMiddleware);
 app.use('/app', express.static(__dirname + "/app" ));
 app.use('/node_modules', express.static(__dirname + "/node_modules"));
-
+app.use('/uploads', express.static(__dirname + "/uploads"));
 
 app.get('/', function(req, res){
     res.sendFile(__dirname + '/index.html');
@@ -33,11 +33,12 @@ app.post('/api/user/login', authenticationController.login);
 app.post('/api/profile/editPhoto', multipartMiddleware, profileController.updatePhoto);
 app.post('/api/profile/updateUsername',profileController.updateUsername);
 app.post('/api/profile/updateBio', profileController.updateBio);
+app.get('/api/profile/get', profileController.getUserData)
 
 //Content
 app.post('/api/content/uploadPhoto', contentController.uploadPhoto);
 app.post('/api/content/post', contentController.postContent);
-app.post('/api/content/get', contentController.getContent);
+app.get('/api/content/get', contentController.getContent);
 
 app.listen('3000', function()
 {

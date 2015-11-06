@@ -12,11 +12,10 @@ module.exports.uploadPhoto = function(req, res)
     var userId = req.body.userId;
 
     console.log("User: " + userId + " is submitting: " + file)
-    var uploadDate = new Date().toISOString().slice(0,19).replace(/-|:/g,""); //Bruger date til at skabe en unik file name!
 
     var tempPath = file.path;
-    var targetPath = path.join(__dirname, "../../uploads/content/" + userId +  uploadDate + file.name);
-    var savePath = "/uploads/content/" + userId + uploadDate + file.name;
+    var targetPath = path.join(__dirname, "../../uploads/content/" + file.name);
+    var savePath = "/uploads/content/" + file.name;
 
     fs.rename(tempPath, targetPath, function(err)
     {
@@ -26,7 +25,7 @@ module.exports.uploadPhoto = function(req, res)
         }
         else
         {
-            console.log($scope);
+            //return savePath
         }
 
     });
@@ -35,12 +34,11 @@ module.exports.uploadPhoto = function(req, res)
 //Upload Content:
 module.exports.postContent = function (req, res)
 {
-//Upload Content:
     var content = new Content(req.body);
     content.save();
 
     Content.find({})
-        .sort({date: -1}).exec(function(err, allContents)
+        .sort({date: -1}).exec(function(err, allContents) //sorteret med den nyeste først
     {
         if (err)
         {
@@ -56,12 +54,12 @@ module.exports.postContent = function (req, res)
 module.exports.getContent = function (req, res)
 {
     Content.find({})
-        .sort({date: -1})
+        .sort({date: -1}) //sorteret med den nyeste først
         .exec(function(err, allContents)
         {
             if (err)
             {
-                res.error(err)
+                res.error(err);
             }
             else
             {

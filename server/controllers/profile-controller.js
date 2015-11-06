@@ -104,3 +104,22 @@ module.exports.updateBio = function (req, res)
         })
     });
 };
+
+module.exports.getUserData = function (req, res)
+{
+    var userId = req.query.user_id;
+    console.log("getting user data for: " + userId)
+
+    User.findById(userId, 'username image bio', function(err, userData)
+    {
+        if (err)
+        {
+            console.log(err);
+            res.error(err);
+        }
+        else
+        {
+            res.json(userData);
+        }
+    });
+}

@@ -2,3 +2,43 @@ body
 {
     margin-top: 100px;
 }
+
+table
+{
+    width: 100%;
+}
+
+td
+{
+    height:auto;
+}
+
+img
+{
+    width:100%;
+    height:auto;
+}
+
+.content-des
+{
+    background-color: rgb(255,255,255);
+    width:100%;
+    height:100%;
+}
+
+
+.content-new
+{
+    width:100%;
+}
+
+.content-newDes
+{
+    margin-top: 10px;
+    min-height: 150px;
+}
+
+.content-newImg
+{
+    clear:both;
+}

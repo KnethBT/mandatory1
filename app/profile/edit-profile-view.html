@@ -8,6 +8,7 @@
 <div class="col-sm-8 col-sm-offset-2">
     <div class="row">
         <!--Her kan brugeren uploade et billede, som skal representere brugeren eller deres firma -->
+        <image ng-src="{{userImage}}" class="img-responsive" style="width:100px; height:100px"></image>
         <div class="button" ngf-select ng-model="file" name="file" ngf-pattern="'image/*'"
                    accept="image/*" ngf-max-size="20MB" ngf-min-height="100"
                    ngf-resize="{width: 100, height: 100}">
@@ -19,12 +20,12 @@
     <div class="row">
         <!--Normalt bryder folk sig ikke om at vise deres mail til alt og alle på nettet, så her kan de vælge et
             username, som vil blive brugt på siden!-->
-        <input class="form-control" ng-model="user.username" ng-blur="updateUsername()"> <!--ng-blur kaldes når man forladet fæltet-->
+        <input class="form-control" placeholder="{{username}}" ng-model="user.username" ng-blur="updateUsername()"><!--ng-blur kaldes når man forladet fæltet-->
     </div>
 
     <div class="row">
         <!-- brugeren skal kunne skrive kort om sig selv/deres spil udviklings firma :)?-->
-        <textarea class="form-control" ng-model="user.bio" ng-blur="updateBio()"></textarea>
+        <textarea class="form-control" placeholder="{{userbio}}"  ng-model="user.bio" ng-blur="updateBio()"></textarea>
     </div>
 </div>
 </body>

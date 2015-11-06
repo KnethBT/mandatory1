@@ -1,6 +1,8 @@
 /**
  * Created by KennethBovbjerg on 04-11-2015.
  */
+
+
 (function()
 {
    angular.module('BrokerCase')
@@ -76,6 +78,34 @@
                    console.log(error);
                });
            }
+
+
+
+           $scope.getUserData = function()
+           {
+               var uId = $scope.user._id;
+
+               console.log(uId);
+
+               $http
+               ({
+                  url: 'api/profile/get',
+                   method: "GET",
+                   params: {user_id: uId}
+               }).then(function successCallback(response)
+               {
+                   $scope.userImage = response.data.image;
+                   $scope.username = response.data.username;
+                   $scope.userbio = response.data.bio;
+                   console.log(response);
+
+               });
+
+
+           };
+
+           //Init
+          $scope.getUserData();
        }]);
 
 
