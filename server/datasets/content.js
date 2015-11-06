@@ -10,6 +10,6 @@ module.exports = mongoose.model('Content',
         contentTitle: String,
         contentDescription: String,
         contentImg: String,
-        contentLikes: {type: String, default: 1},
+        contentScore: {type: Number, default: 1},
         date: {type: Date, default: Date.now}
     });

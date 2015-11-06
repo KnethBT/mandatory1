@@ -39,7 +39,7 @@
             </tr>
             <tr ng-repeat="content in contents" class="content-wrapper">
 
-                <td class="col-sm-5 col-sm-offset-1">
+                <td>
                     <h2 class="col-sm-12"><b>{{content.contentTitle}}</b></h2> <br>
 
                     <image ng-src="{{content.contentImg}}" class="img-responsive col-sm-6"></image>
@@ -51,6 +51,12 @@
                         <p>{{content.contentDescription}}</p>
                         <br>
                        <h6><b>{{content.username}}</b></h6>
+                    </div>
+
+                    <div class="col-sm-6 col-sm-offset-6">
+                        <strong>Score: {{content.contentScore}}</strong>
+                        <button ng-click="voteContent(content, true)" class="btn, btn-default col-sm-2">Up vote</button>
+                        <button ng-click="voteContent(content, false)" class="btn, btn-default col-sm-2">Down vote</button>
                     </div>
                 </td>
             </tr>

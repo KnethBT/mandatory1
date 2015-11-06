@@ -48,8 +48,7 @@
                             userId: $scope.user._id,
                             contentTitle: $scope.newContentTitle,
                             contentDescription: $scope.newContentDescription,
-                            contentImg: contentImage.name   //har brugt meget langtid på at prøve at finde en måde at sende den fulde path tilbage, efter et billede er blevet uploadet til serveren.
-                                                             //men har nu måtte vælge at gå videre, istedet for at bruge mere tid på det.
+                            contentImg: contentImage.name
                         }
 
                         $http.post('api/content/post', request).success(function(response)
@@ -83,6 +82,36 @@
                     })
 
                 };
+
+                $scope.voteContent =function(content, isUpVote)
+                {
+                   // console.log(content._id);
+                    var voteScore = new Number(0);
+
+                    if (isUpVote){voteScore++;}
+                    else {voteScore--;}
+
+                    var newScore = content.contentScore + voteScore;
+
+                    console.log("newScore: " + newScore);
+                    var request =
+                    {
+                        contentId: content._id,
+                        contentScore: newScore
+                    }
+
+                    $http.post('api/content/updateVotes', request).success(function()
+                    {
+                        console.log("success");
+                    }).error(function(error)
+                    {
+                        console.log("error");
+                    })
+
+                    //$scope.setNewContents();
+                };
+
+
 
                 //Check om der er kommet nyt content vært x sek!
                 $interval(function ()

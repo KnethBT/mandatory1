@@ -35,6 +35,7 @@ module.exports.uploadPhoto = function(req, res)
 module.exports.postContent = function (req, res)
 {
     var content = new Content(req.body);
+    content.contentImg = "/uploads/content/" + content.contentImg;
     content.save();
 
     Content.find({})
@@ -66,4 +67,29 @@ module.exports.getContent = function (req, res)
                 res.json(allContents);
             }
         })
+};
+
+module.exports.updateVotes = function (req, res)
+{
+    var contentId = req.body.contentId;
+    var contentScore = req.body.contentScore;
+    Content.findById(contentId, function (err, contentData)
+    {
+        var content = contentData;
+        content.contentScore = contentScore;
+
+        content.save(function(err)
+        {
+            if (err)
+            {
+                console.log("fail");
+                res.json({status: 500}); //ifølge wiki er 500 = oh fuck
+            }
+            else
+            {
+                console.log("success");
+                res.json({status: 200});//ifølge wiki er 200 = success!
+            }
+        })
+    });
 }

@@ -38,6 +38,7 @@ app.get('/api/profile/get', profileController.getUserData)
 //Content
 app.post('/api/content/uploadPhoto', contentController.uploadPhoto);
 app.post('/api/content/post', contentController.postContent);
+app.post('/api/content/updateVotes', contentController.updateVotes);
 app.get('/api/content/get', contentController.getContent);
 
 app.listen('3000', function()

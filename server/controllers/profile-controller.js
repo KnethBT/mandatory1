@@ -114,7 +114,6 @@ module.exports.getUserData = function (req, res)
     {
         if (err)
         {
-            console.log(err);
             res.error(err);
         }
         else
